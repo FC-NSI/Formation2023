@@ -9,6 +9,7 @@
 ### Outils nécessaires
 * Environnement de développement Python 3
   * [PyCharm](https://www.jetbrains.com/pycharm)
+  * [VSCode](https://code.visualstudio.com)
   * [edupyter](https://www.edupyter.net) - développé par un enseignant NSI
   * [Thonny](https://thonny.org)
   * ...
